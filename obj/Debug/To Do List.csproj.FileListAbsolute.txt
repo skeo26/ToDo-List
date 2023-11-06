@@ -1,0 +1,16 @@
+C:\Users\samua\source\repos\To Do List\obj\Debug\To Do List.csproj.AssemblyReference.cache
+C:\Users\samua\source\repos\To Do List\obj\Debug\To Do List.csproj.SuggestedBindingRedirects.cache
+C:\Users\samua\source\repos\To Do List\obj\Debug\MainWindow.g.cs
+C:\Users\samua\source\repos\To Do List\obj\Debug\App.g.cs
+C:\Users\samua\source\repos\To Do List\obj\Debug\To Do List_MarkupCompile.cache
+C:\Users\samua\source\repos\To Do List\obj\Debug\To Do List_MarkupCompile.lref
+C:\Users\samua\source\repos\To Do List\obj\Debug\MainWindow.baml
+C:\Users\samua\source\repos\To Do List\obj\Debug\To Do List.g.resources
+C:\Users\samua\source\repos\To Do List\obj\Debug\To Do List.pdb
+C:\Users\samua\source\repos\To Do List\bin\Debug\To Do List.exe.config
+C:\Users\samua\source\repos\To Do List\bin\Debug\To Do List.exe
+C:\Users\samua\source\repos\To Do List\bin\Debug\To Do List.pdb
+C:\Users\samua\source\repos\To Do List\obj\Debug\To_Do_List.Properties.Resources.resources
+C:\Users\samua\source\repos\To Do List\obj\Debug\To Do List.csproj.GenerateResource.cache
+C:\Users\samua\source\repos\To Do List\obj\Debug\To Do List.csproj.CoreCompileInputs.cache
+C:\Users\samua\source\repos\To Do List\obj\Debug\To Do List.exe
